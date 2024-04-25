@@ -1,0 +1,28 @@
+.doom{
+    width: 34%;
+    height: 254px;
+    z-index: 5;
+    position: absolute;
+}
+.tomorrow{
+    width: 460px;
+    height: 254px;
+    left: 361px;
+    z-index: 3;
+    position: relative;
+}
+.classic{
+    width: 34%;
+    height: 254px;
+    left: 820px;
+    z-index: 4;
+    position:absolute;
+}
+.paragraf{
+    left: 385px;
+    top: 173px;
+    color: #ffffff;
+    z-index: 7;
+    position: absolute;
+    font-size: 0.95rem;
+}
